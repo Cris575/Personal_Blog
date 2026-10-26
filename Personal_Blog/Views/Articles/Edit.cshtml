@@ -1,8 +1,22 @@
-﻿@model TModel
+﻿@model Articles
 
 @{
     ViewBag.Title = "title";
     Layout = "_Layout";
 }
-
-<h2>title</h2>
+<form asp-action="Update" asp-controller="Articles" method="post">
+    <input type="hidden" value="@Model.Id" asp-for="Id"/>
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label">Email address</label>
+        <input type="text" asp-for="Title" class="form-control" placeholder="name@example.com" value="@Model.Title">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Date" class="form-label">Email address</label>
+        <input type="text" asp-for="Date" class="form-control" placeholder="name@example.com" value="@Model.Date">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Text" class="form-label">Example textarea</label>
+        <textarea asp-for="Text"  class="form-control"  rows="3">@Model.Text</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

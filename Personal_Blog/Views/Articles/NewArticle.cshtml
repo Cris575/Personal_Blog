@@ -5,7 +5,7 @@
     Layout = "_Layout";
 }
 
-<form asp-action="Create" asp-controller="Articles" method="post">
+<form asp-action="SaveArticle" asp-controller="Articles" method="post">
     <input type="hidden" value="@Model.Id" asp-for="Id"/>
     <div class="mb-3">
         <label asp-for="Title" class="form-label">Email address</label>

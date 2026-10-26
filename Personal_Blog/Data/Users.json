@@ -1,2 +1,16 @@
-﻿{
-}
+﻿[
+  {
+    "id": 1,
+    "User_name": "admin",
+    "Email": "admin@temp.com",
+    "Password": "admin",
+    "Role": "admin"
+  },
+  {
+    "id": 2,
+    "User_name": "admin",
+    "Email": "user@temp.com",
+    "Password": "users",
+    "Role": "user"
+  }
+]

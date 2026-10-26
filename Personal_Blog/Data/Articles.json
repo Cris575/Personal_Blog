@@ -1,3 +1,8 @@
-﻿{
-
-}
+[
+  {
+    "Id": 1,
+    "Title": "my first article test",
+    "Date": "01/10/2026",
+    "Text": "Lorem ipsum dolor sit amet consectetur adipiscing elit interdum augue, netus nunc turpis sem quam dictumst hac ultricies, pharetra phasellus eros cubilia ultrices egestas tellus nulla. Condimentum morbi non taciti nullam cras dapibus tincidunt netus vitae, placerat odio suspendisse eleifend nascetur duis accumsan metus lacus, nulla primis congue sagittis euismod justo nibh ultrices. Commodo netus magnis faucibus potenti euismod per phasellus egestas viverra, mattis scelerisque accumsan arcu at vel cursus nisi laoreet, felis dignissim vitae nam varius in sociis eleifend."
+  }
+]

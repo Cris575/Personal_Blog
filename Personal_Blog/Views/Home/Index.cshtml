@@ -1,8 +1,17 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<Articles>
+
+@{
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<section class="hero">
+    <p class="eyebrow">BLOG PERSONAL</p>
+    <h1>Welcome to my space</h1>
+    <p>Articles, ideas, and simple thoughts.</p>
+</section>
+
+<div class="section-title">
+    <h2>Latest articles</h2>
 </div>
+
+<partial name="_Articles" model="Model"></partial>

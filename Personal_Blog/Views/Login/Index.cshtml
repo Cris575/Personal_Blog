@@ -1,8 +1,25 @@
-﻿@model TModel
+﻿@model User
 
 @{
-    ViewBag.Title = "title";
+    ViewBag.Title = "Login";
     Layout = "_Layout";
 }
 
-<h2>title</h2>
+<form asp-action="ValidateUser" method="post">
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email address</label>
+        <input type="email" class="form-control" asp-for="Email" aria-describedby="emailHelp">
+        <span asp-validation-for="Email" class="text-danger"></span>
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Password</label>
+        <input type="password" class="form-control" asp-for="Password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    @* <div class="mb-3 form-check"> *@
+    @*     <input type="checkbox" class="form-check-input" id="exampleCheck1"> *@
+    @*     <label class="form-check-label" for="exampleCheck1">Check me out</label> *@
+    @* </div> *@
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
