@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Articles>
+
+
+@foreach (var article in Model)
+{
+    <div>
+        <h2><a asp-controller="Articles" asp-action="Index" asp-route-id="@article.Id">@article.Title</a></h2> <span>@article.Date</span>
+        <p>@TempData["UserRole"]</p>
+    </div>
+}
