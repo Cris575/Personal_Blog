@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Articles>
+
+<div class="articles-list">
+    @foreach (var article in Model)
+    {
+        <article class="article-card">
+            <div class="article-date">@article.Date</div>
+            <h3>
+                <a asp-controller="Articles" asp-action="Index" asp-route-id="@article.Id">@article.Title</a>
+            </h3>
+
+            @if (User.Identity is { IsAuthenticated: true } && User.IsInRole("admin"))
+            {
+                <div class="article-actions">
+                    <a asp-controller="Articles" asp-action="Edit" asp-route-id="@article.Id">Edit</a>
+                    <form asp-controller="Articles"
+                          asp-action="Delete"
+                          method="post">
+
+                        <input type="hidden" name="id" value="@article.Id" />
+
+                        <button type="submit">Eliminar</button>
+                    </form>
+                </div>
+            }
+        </article>
+    }
+</div>

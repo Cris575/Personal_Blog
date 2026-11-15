@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Personal_Blog</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="site-header">
+        <div class="container nav-container">
+            <a class="brand" asp-controller="Home" asp-action="Index">Personal Blog</a>
+
+            <nav class="nav-menu">
+                <a asp-controller="Home" asp-action="Index">Home</a>
+
+                @if (User.Identity is { IsAuthenticated: true } && User.IsInRole("admin"))
+                {
+                    <a asp-controller="Articles" asp-action="NewArticle">New</a>
+                }
+            </nav>
+
+            @if (User.Identity is { IsAuthenticated: true })
+            {
+                <span class="user-name">@User.Identity.Name</span>
+
+                <form asp-controller="Login" asp-action="Logout" method="post" class="logout-form">
+                    @Html.AntiForgeryToken()
+                    <button type="submit" class="logout-button">Log out</button>
+                </form>
+            }
+        </div>
+    </header>
+
+    <main class="container page-content">
+        @RenderBody()
+    </main>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

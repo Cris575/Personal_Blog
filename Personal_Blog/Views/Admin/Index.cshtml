@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Articles>
+
+@if (User.Identity is { IsAuthenticated: true } && User.IsInRole("admin"))
+{
+    <a asp-controller="Articles" asp-action="NewArticle">New</a>
+}
+
+<partial name="_Articles" model="Model"></partial>

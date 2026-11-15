@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\shared\\_articles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\shared\\_articles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\repository\\repositorydatajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\repository\\repositorydatajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\repository\\repositorydatajsonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\repository\\repositorydatajsonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\utilities\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\utilities\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\cg691\\onedrive\\escritorio\\personal_blog\\personal_blog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cg691\\AppData\\Local\\Temp\\NewFile1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Personal_Blog\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Personal_Blog\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAiwL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T22:30:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:59:46.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\ArticlesController.cs*",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\ArticlesController.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAjwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:46:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Program.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Program.cs",
+              "RelativeToolTip": "Personal_Blog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:59:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Articles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Articles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Articles\\Edit.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Articles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T02:23:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryDataJson.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "RelativeToolTip": "Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:52:34.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Readme.md",
+              "RelativeDocumentMoniker": "Personal_Blog\\Readme.md",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Readme.md",
+              "RelativeToolTip": "Personal_Blog\\Readme.md",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-25T22:35:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Articles.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Shared\\_Articles.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Shared\\_Articles.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Shared\\_Articles.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Shared\\_Articles.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T22:30:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articles.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Models\\Articles.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Models\\Articles.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Models\\Articles.cs",
+              "RelativeToolTip": "Personal_Blog\\Models\\Articles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:50:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Personal_Blog\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:50:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:59:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:59:50.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T22:30:26.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryDataJsonUser.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "RelativeToolTip": "Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:42:26.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T02:45:20.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HashPassword.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Utilities\\HashPassword.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Utilities\\HashPassword.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Utilities\\HashPassword.cs",
+              "RelativeToolTip": "Personal_Blog\\Utilities\\HashPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:45:09.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Models\\User.cs",
+              "RelativeToolTip": "Personal_Blog\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:41:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "Personal_Blog\\Interfaces\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:41:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Articles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Articles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T02:22:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T02:22:47.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Data\\Users.json",
+              "RelativeDocumentMoniker": "Personal_Blog\\Data\\Users.json",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Data\\Users.json",
+              "RelativeToolTip": "Personal_Blog\\Data\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T22:31:21.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewFile1.md",
+              "DocumentMoniker": "C:\\Users\\cg691\\AppData\\Local\\Temp\\NewFile1.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\NewFile1.md",
+              "ToolTip": "C:\\Users\\cg691\\AppData\\Local\\Temp\\NewFile1.md",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\NewFile1.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-25T22:37:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Personal_Blog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\Personal_Blog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Personal_Blog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T22:30:36.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\cg691\\OneDrive\\Escritorio\\Personal_Blog\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-25T22:34:55.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

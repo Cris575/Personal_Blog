@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Articles>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<section class="hero">
+    <p class="eyebrow">BLOG PERSONAL</p>
+    <h1>Welcome to my space</h1>
+    <p>Articles, ideas, and simple thoughts.</p>
+</section>
+
+<div class="section-title">
+    <h2>Latest articles</h2>
+</div>
+
+<partial name="_Articles" model="Model"></partial>

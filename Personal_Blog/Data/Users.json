@@ -1,0 +1,16 @@
+[
+  {
+    "UserId": 0,
+    "Username": "Admin",
+    "Email": "admin@temp.com",
+    "PasswordHash": "AQAAAAIAAYagAAAAEPFcTlbuAZ\u002BJpmSKRzxl1zg8ad1TISoM9Ge4l6347vbFeqW\u002BpOpRENTnxHxEAiUvpw==",
+    "Role": "admin"
+  },
+  {
+    "UserId": 1,
+    "Username": "Cris",
+    "Email": "user@temp.com",
+    "PasswordHash": "AQAAAAIAAYagAAAAEGflW71MRsZZHmAsjoQd4E2tIBoWlwHIwbOfdVacoW8MrSmtTSuGD2uq\u002BBXQFLaI1A==",
+    "Role": "user"
+  }
+]

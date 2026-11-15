@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Personal_Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\repository\\repositorydatajsonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\repository\\repositorydatajsonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\utilities\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\utilities\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\repository\\repositorydatajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\repository\\repositorydatajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\data\\articles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\data\\articles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|c:\\users\\user\\desktop\\personal_blog\\personal_blog\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71B58F1-5BBF-4A57-AC85-99D885CBEA45}|Personal_Blog\\Personal_Blog.csproj|solutionrelative:personal_blog\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:03:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:03:19.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articles.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Data\\Articles.json",
+              "RelativeDocumentMoniker": "Personal_Blog\\Data\\Articles.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Data\\Articles.json",
+              "RelativeToolTip": "Personal_Blog\\Data\\Articles.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T22:01:30.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:01:27.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "Personal_Blog\\Interfaces\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:59:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryDataJson.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "RelativeToolTip": "Personal_Blog\\Repository\\RepositoryDataJson.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv1QAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:48:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashPassword.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Utilities\\HashPassword.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Utilities\\HashPassword.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Utilities\\HashPassword.cs",
+              "RelativeToolTip": "Personal_Blog\\Utilities\\HashPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:41:42.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryDataJsonUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "RelativeToolTip": "Personal_Blog\\Repository\\RepositoryDataJsonUser.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:41:27.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Personal_Blog\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Personal_Blog\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:41:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Data\\Users.json",
+              "RelativeDocumentMoniker": "Personal_Blog\\Data\\Users.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Personal_Blog\\Personal_Blog\\Data\\Users.json",
+              "RelativeToolTip": "Personal_Blog\\Data\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T20:43:56.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
