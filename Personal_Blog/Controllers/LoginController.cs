@@ -1,10 +1,11 @@
-﻿using System.Security.Claims;
-using Microsoft.AspNetCore.Authentication;
+﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 using Personal_Blog.Interfaces;
 using Personal_Blog.Models;
+using System.Security.Claims;
 
 namespace Personal_Blog.Controllers;
 
@@ -30,6 +31,7 @@ public class LoginController: Controller
     
     [HttpPost]
     [ValidateAntiForgeryToken]
+    [EnableRateLimiting("login")]
     public async Task<IActionResult> ValidateUser(LoginViewModel userViewModel)
     {   
         if (!ModelState.IsValid)
