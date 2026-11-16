@@ -5,7 +5,7 @@ namespace Personal_Blog.Interfaces;
 
 public interface ILogin
 {
-    Task<User?> ValidateLogin(LoginViewModel objUser);
+    Task<User> ValidateLogin(LoginViewModel objUser);
     ClaimsIdentity CreateClaimsIdentity(User user);
     //Task HashUsers();
     Task<User> GetUser(string email);

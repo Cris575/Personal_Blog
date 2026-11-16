@@ -39,7 +39,7 @@ public class RepositoryDataJsonUser: ILogin
     //    await File.WriteAllTextAsync(pathFile, json);
     //}
 
-    public async Task<User?> ValidateLogin(LoginViewModel credentials)
+    public async Task<User> ValidateLogin(LoginViewModel credentials)
     {
 
         var objUserFromDb = await GetUser(credentials.Email);
@@ -97,7 +97,7 @@ public class RepositoryDataJsonUser: ILogin
     }
 
 
-    public async Task<User?> GetUser(string email)
+    public async Task<User> GetUser(string email)
     {
         var users = await ReadUsersAsync();
 
