@@ -4,10 +4,16 @@
         <TargetFramework>net9.0</TargetFramework>
         <Nullable>disable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>22343bfd-5a43-4028-9ab7-394e66460a6d</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
       <_ContentIncludedByDefault Remove="Views\Admin\Index.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.1.100" />
+      <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.2" />
     </ItemGroup>
 
 </Project>
