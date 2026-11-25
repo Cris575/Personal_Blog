@@ -31,8 +31,9 @@ builder.Services.AddControllersWithViews(options =>
         new AutoValidateAntiforgeryTokenAttribute()
     );
 });
+
 builder.Services.AddTransient<IArticle, RepositoryDataJson>();
-builder.Services.AddTransient<ILogin, RepositoryDataJsonUser>();
+builder.Services.AddScoped<ILogin, RepositoryDataSqlUser>();
 
 builder.Services.AddRateLimiter(options =>
 {
@@ -56,6 +57,7 @@ builder.Services.AddRateLimiter(options =>
     });
 });
 //builder.Services.AddTransient<Articles, Articles>();
+
 
 var app = builder.Build();
 
